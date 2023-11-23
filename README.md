@@ -1,11 +1,10 @@
 ### 👋 Hi there 
-I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+I am a computer system technician, and a computer engineering student, I have experience in working in many projects like a freelancer as technical Lead and Junior  developer👨‍💻. Interested in making life easier by creating utility tools.
 
 
-- 🔭 I’m currently working on ReactJS, Nodejs devOps, DataBase Modeling and flutter.
-- 🍔 Founder TasteBuds.
-- ⚡ Currently Working at ThoughtWorks.
-- 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
+- 🔭 I’m currently working on JS, Django and DataBase Management.
+- ⚡ Currently Working like freelancer.
+- 💬 Watch my portfolio at [Journal](https://agbportfolio.vercel.app)
 
 <hr />
 
@@ -13,3 +12,4 @@ I am a computer science engineer and have experience in working in many startups
 
 - DB Management
 - Web Development
+- Design
