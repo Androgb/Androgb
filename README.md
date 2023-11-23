@@ -4,7 +4,7 @@ I am a computer system technician, and a computer engineering student, I have ex
 
 - 🔭 I’m currently working on JS, Django and DataBase Management.
 - ⚡ Currently Working like freelancer.
-- 💬 Watch my portfolio at [Journal](https://agbportfolio.vercel.app)
+- 💬 Watch my portfolio at [AGB](https://agbportfolio.vercel.app)
 
 ## ⚡ Domains:
 
