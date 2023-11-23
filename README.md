@@ -6,8 +6,6 @@ I am a computer system technician, and a computer engineering student, I have ex
 - ⚡ Currently Working like freelancer.
 - 💬 Watch my portfolio at [Journal](https://agbportfolio.vercel.app)
 
-<hr />
-
 ## ⚡ Domains:
 
 - DB Management
